@@ -2,7 +2,7 @@
 Clustering a stock portfolio for the diversification problem
 
 # Objectives
-The goal of this work is: to cluster stocks using unsupervised machine learning algorithms such as
+** The goal of this work is: to cluster stocks using unsupervised machine learning algorithms such as
 KMeans and Aglomerative Hierarchical Clustering. Stock clustering can be useful for a variety of financial
 and investment purposes:
 
